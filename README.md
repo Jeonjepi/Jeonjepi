@@ -20,7 +20,7 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
       </p>
+
 <h3 align="left">📫 Contact 📫</h3>
 
