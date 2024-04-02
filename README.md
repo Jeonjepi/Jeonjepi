@@ -1,5 +1,5 @@
 
-<img src="[https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonjepilayout=compact)](https://github.com/delay-100/github-readme-stats)" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonjepi&layout=compact)](https://github.com/delay-100/github-readme-stats) <!-- Github Status --> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonjepi&show_icons=true&theme=dracula)
 
 <--**Jeonjepi/Jeonjepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
