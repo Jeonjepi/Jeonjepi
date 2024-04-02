@@ -9,8 +9,8 @@
   <p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=NestJS&logoColor=white">
-      <img src="https://img.shields.io/badge/NestJS-000000?style=flat&logo=NestJS&logoColor=red" />
+    <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=NestJS&logoColor=red">
+
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
       </p>
 <h4 align="left">Database</h4>
