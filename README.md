@@ -6,6 +6,7 @@
   <p>
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"><img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"><img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   </p>
+  
 <h4 align="left">Backend</h4>
 
   <p>
@@ -15,6 +16,7 @@
 
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
       </p>
+      <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <h4 align="left">Database</h4>
   <p>
 
