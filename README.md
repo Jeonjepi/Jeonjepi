@@ -29,4 +29,6 @@
       </p>
 
 <h3 align="left">📫 Contact 📫</h3>
+<h4 align="left">Email : jeonjepi@kakao.com</h4>
+
 
