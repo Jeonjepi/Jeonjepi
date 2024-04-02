@@ -16,8 +16,11 @@
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
       </p>
 <h4 align="left">Database</h4>
+  <p>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
+      </p>
 <h3 align="left">📫 Contact 📫</h3>
 
