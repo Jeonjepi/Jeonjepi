@@ -28,7 +28,4 @@
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
       </p>
 
-<h3 align="left">📫 Contact 📫</h3>
-<h4 align="left">Email : jeonjepi@kakao.com</h4>
-
 
