@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Jeonjepi's+Github!)](https://git.io/typing-svg)</br>
+
 
 <h3 align="left">✨ Tech Stack ✨</h3>
 <h4 align="left">Server</h4>
